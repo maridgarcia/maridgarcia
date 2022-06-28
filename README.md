@@ -30,7 +30,7 @@
 
 ---
 
-## :wrench: Linguagens e ferramentas :gear:
+## :wrench: linguagens e ferramentas :gear:
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -46,5 +46,5 @@
 
 ---
 
-###   :mailbox: Entre em contato: [![Linkedin Badge](https://img.shields.io/badge/-maridgarcia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-/)
+###   :mailbox: entre em contato: [![Linkedin Badge](https://img.shields.io/badge/-maridgarcia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-/)
 </div>
