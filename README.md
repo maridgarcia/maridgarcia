@@ -4,9 +4,6 @@
     <a href="https://www.linkedin.com/in/mariana-/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"/>
     </a>
-    <a href="https://www.instagram.com/marianagrrrcia/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="linkedin"/>
-    </a>
     <h1>
       e aí, beleza? 
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
